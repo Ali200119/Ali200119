@@ -26,14 +26,14 @@
 <a href="https://github.com/Ali200119/github-readme-stats"><img alt="Ali Talibov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali200119&langs_count=8&count_private=true&layout=compact&title_color=ffffff&bg_color=000000" /></a>
 
 
+## 📖 What I Read
+
+- [5 Habits of Highly Focused People](https://nickwignall.medium.com/5-habits-of-highly-focused-people-7bf10d3a7dad)
+
+
 ## 💌 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ali200119">
 </a>
 
 <a href="https://github.com/Ali200119?tab=followers"><img src="https://img.shields.io/github/followers/Ali200119?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-## 📖 What I Read
-
-- [5 Habits of Highly Focused People](https://nickwignall.medium.com/5-habits-of-highly-focused-people-7bf10d3a7dad)
