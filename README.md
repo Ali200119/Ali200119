@@ -12,11 +12,6 @@
 
 - 📫 How to reach me **Mail: aliit@code.edu.az**
 
-## 🚀 Languages and Tools:
-
-<p align="left">
-
-    ## 🚀 Languages and Tools:
 
 ## 🚀 Languages and Tools:
 
