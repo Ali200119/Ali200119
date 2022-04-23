@@ -26,6 +26,11 @@
 <a href="https://github.com/Ali200119/github-readme-stats"><img alt="Ali Talibov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali200119&langs_count=8&count_private=true&layout=compact&title_color=ffffff&bg_color=000000" /></a>
 
 
+## Social Information
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aliit@code.edu.az/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ali200119/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ali20011908)
+
+
 ## 📖 What I Read
 
 - [5 Habits of Highly Focused People](https://nickwignall.medium.com/5-habits-of-highly-focused-people-7bf10d3a7dad)
