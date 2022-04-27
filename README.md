@@ -25,7 +25,7 @@
 ## 📊 My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ali200119&show_icons=true&title_color=ffffff&icon_color=0000ff&text_color=ffffff&bg_color=000000">
-<a href="https://github.com//github-readme-stats"><img alt="Ali Talibov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali200119&langs_count=8&count_private=true&layout=compact&title_color=ffffff&bg_color=000000" /></a>
+<a href="https://github.com//github-readme-stats"><img alt="Ali Talibov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8&count_private=true&layout=compact&title_color=ffffff&bg_color=000000" /></a>
 
 
 ## 💬 Social Information
