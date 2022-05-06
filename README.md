@@ -6,7 +6,7 @@
 
 # 🙋‍♂️ About Me
 
-- 🌱 I'm currently learning **C# and SQL.**
+- 🌱 I'm currently learning **HTML and CSS**
 
 - 📫 You can reach me by emailing me: **aliit@code.edu.az**
 
