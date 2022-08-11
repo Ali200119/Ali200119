@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **HTML, CSS and JS**
 
-- 🔭 I’m currently working on [Front End Project](https://github.com/Ali200119/FrontEndProject)
+- 🔭 I’m currently working on GameLib
 
 - 📫 You can reach me by emailing me: **aliit@code.edu.az**
 
