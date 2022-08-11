@@ -6,7 +6,7 @@
 
 # 🙋‍♂️ About Me
 
-- 🌱 I'm currently learning **HTML, CSS and JS**
+- 🌱 I'm currently learning **API**
 
 - 🔭 I’m currently working on GameLib
 
