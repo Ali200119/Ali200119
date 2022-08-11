@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<img name="readme-top" width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ali Talibov</h1>
 <h3 align="center">I'm Software Developer from Azerbaijan</h3>
@@ -49,3 +49,5 @@
 </a>
 
 <a href="https://github.com/Ali200119?tab=followers"><img src="https://img.shields.io/github/followers/Ali200119?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
