@@ -41,6 +41,7 @@
 ## 📖 What I Read
 
 - [5 Habits of Highly Focused People](https://nickwignall.medium.com/5-habits-of-highly-focused-people-7bf10d3a7dad)
+- [7 Simple Habits That Save Me Time](https://parkerklein.medium.com/7-simple-habits-that-save-me-time-68deaff36855)
 
 
 ## 💌 Views and Followers
