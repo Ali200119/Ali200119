@@ -6,7 +6,7 @@
 
 # 🙋‍♂️ About Me
 
-- 🌱 I'm currently learning **API**
+- 🌱 I'm currently learning **React**
 
 - 🔭 I’m currently working on [GameLib](https://github.com/Ali200119/GameLib)
 
