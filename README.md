@@ -44,6 +44,7 @@
 - [7 Simple Habits That Save Me Time](https://parkerklein.medium.com/7-simple-habits-that-save-me-time-68deaff36855)
 - [How did I learn to Focus?](https://betterprogramming.pub/how-did-i-learn-to-focus-bab6b67ec02a)
 - [10 Studying Tips From A Cambridge Mathematics Student](https://medium.com/@EleonoraSvanberg/10-studying-tips-from-a-cambridge-mathematics-student-43d5b96615da)
+- [Most Software Developers Fail the Yellow Cat Test](https://blog.devgenius.io/most-software-developers-fail-the-yellow-cat-test-6202027e952f)
 
 
 ## 💌 Views and Followers
