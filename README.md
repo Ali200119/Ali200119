@@ -1,7 +1,7 @@
 <img name="readme-top" width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ali Talibov</h1>
-<h3 align="center">I'm Frontend Developer from Azerbaijan</h3>
+<h3 align="center">I'm Full Stack Developer from Azerbaijan</h3>
 
 
 # 🙋‍♂️ About Me
